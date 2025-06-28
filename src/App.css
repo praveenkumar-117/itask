@@ -1,0 +1,28 @@
+/* Alternate Theme */
+.nav-bar{
+  background-color: #0a21c0; 
+}
+.todobody { background-color: #141619; } 
+.todobody input { background-color: rgb(179, 180, 189); }
+.btn-save { background-color: #0a21c0; }
+ .btn-save:hover { background-color: #050a44; color: white; } 
+ .todobody label { background-color: #2c2e3a; }
+ .todo { background-color: #2c2e3a; }
+ .buttons button { background-color: #141619; }
+ .buttons button:hover { background-color: #b3b4bd; color: #141619}
+
+ .btn-container {
+  display: flex;
+   background-color: #0a21c0; 
+ }
+.tab-button {
+   
+   color: white;
+  border: none;
+   background-color: none;
+  cursor: pointer;
+
+  transition: background-color 0.3s; }
+  
+   #schedule-button.active, #note-button.active { background-color: #141619; }
+
