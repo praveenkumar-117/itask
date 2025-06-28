@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import Navbar from './components/navbar'
+import Navbar from './components/Navbar'
 import { FaRegEdit } from "react-icons/fa";
 import { RiDeleteBin6Line } from "react-icons/ri";
 import edt from '../src/edt.png';
